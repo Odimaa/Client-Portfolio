@@ -88,6 +88,11 @@ img {
 	max-width: 100%;
 }
 
+
+td  {
+	text-align: left;
+  }
+
 input:focus,
 select:focus,
 button:focus,
